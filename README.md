@@ -18,7 +18,7 @@
 
 ## NIDOVA
 
-AI/ML Engineer at NIDOVA, a healthtech company in Ballari.
+AI/ML Engineer at NIDOVA, a healthtech company.
 
 **HealifyAI** reads phone photos of thermal-printed lab reports and explains them to the patient in their own language.
 
