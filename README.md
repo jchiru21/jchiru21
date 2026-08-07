@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jchiru21/jchiru21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Chiranjeevi+J;Founding+Engineer+%40+NIDOVA;Medical+AI+that+has+to+be+right" alt="Chiranjeevi J" />
 
-Here are some ideas to get you started:
+**Chiranjeevi J** · Ballari, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://chiranjeevi-j.vercel.app">
+<img src="https://img.shields.io/badge/chiranjeevi--j.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="" />
+
+## NIDOVA
+
+Healthtech company I co-founded in 2026. I own the technical stack end to end.
+
+**HealifyAI** reads phone photos of thermal-printed lab reports and explains them to the patient in their own language.
+
+Every release is checked against hand-audited clinical reference ranges, because a confidently wrong lab value is worse than no answer at all.
+
+## Stack
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,docker,redis,postgres&theme=dark" alt="Python, PyTorch, OpenCV, FastAPI, Docker, Redis, PostgreSQL" />
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,git,linux&theme=dark" alt="TypeScript, Next.js, React, Tailwind, Git, Linux" />
+
+## Currently
+
+Shipping HealifyAI. Open to talking with anyone working on Indian-language models or serving infrastructure.
