@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Chiranjeevi+J;Founding+Engineer+%40+NIDOVA;Medical+AI+that+has+to+be+right" alt="Chiranjeevi J" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Chiranjeevi+J;AI ML+Engineer+%40+NIDOVA;Medical+AI+that+has+to+be+right" alt="Chiranjeevi J" />
 
 **Chiranjeevi J** · Ballari, India
 
