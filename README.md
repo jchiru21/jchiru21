@@ -10,7 +10,11 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="" />
+</picture>
 
 ## NIDOVA
 
@@ -22,9 +26,17 @@ Every release is checked against hand-audited clinical reference ranges, because
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,docker,redis,postgres&theme=dark" alt="Python, PyTorch, OpenCV, FastAPI, Docker, Redis, PostgreSQL" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Copencv%2Cfastapi%2Cdocker%2Credis%2Cpostgres&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Copencv%2Cfastapi%2Cdocker%2Credis%2Cpostgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,docker,redis,postgres&theme=dark" alt="Python, PyTorch, OpenCV, FastAPI, Docker, Redis, PostgreSQL" />
+</picture>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,git,linux&theme=dark" alt="TypeScript, Next.js, React, Tailwind, Git, Linux" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cgit%2Clinux&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cgit%2Clinux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,git,linux&theme=dark" alt="TypeScript, Next.js, React, Tailwind, Git, Linux" />
+</picture>
 
 ## Currently
 
